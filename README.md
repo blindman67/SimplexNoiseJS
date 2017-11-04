@@ -1,12 +1,12 @@
 # SimplexNoiseJS
 
-A JavaScript rewrite of typescript [Open-Simplex-Noise] (https://github.com/joshforisha/open-simplex-noise-js) an implementation of [OpenSimplex noise](https://en.wikipedia.org/wiki/OpenSimplex_noise)
+A JavaScript rewrite of typescript [Open-Simplex-Noise](https://github.com/joshforisha/open-simplex-noise-js) an implementation of [OpenSimplex noise](https://en.wikipedia.org/wiki/OpenSimplex_noise)
 
 The rewrite provides a 15-20% performance improvement on the typescript implementation, file size reduction from 24.28K to 14.66K, and a reduced runtime memory footprint.
 
 ## Demo
 
-A demo can be found at codepen [Simplex Noise Example] (https://codepen.io/Blindman67/pen/EbKoYx?editors=0010)
+A demo can be found at codepen [Simplex Noise Example](https://codepen.io/Blindman67/pen/EbKoYx?editors=0010)
 
 ## Example
 

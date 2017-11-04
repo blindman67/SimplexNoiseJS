@@ -1,4 +1,4 @@
- SimplexNoiseJS
+# SimplexNoiseJS
 
 A JavaScript rewrite of typescript [Open-Simplex-Noise] (https://github.com/joshforisha/open-simplex-noise-js) an implementation of [OpenSimplex noise](https://en.wikipedia.org/wiki/OpenSimplex_noise)
 
